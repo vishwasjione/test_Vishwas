@@ -5,5 +5,3 @@ from libs.sfunctions import multiply_two_numbers
 result = add_two_numbers(5, 7)
 print(f"The result is: {result}")
 
-result = multiply_two_numbers(5, 7)
-print(f"The result is: {result}")
